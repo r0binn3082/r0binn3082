@@ -1,4 +1,5 @@
 ## Hi there, it's Mrawan El-Sayed👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0binn3082&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 👨‍🏫 Student At alexandria Universty faculty of computing and data scince </br>
 🌱 I'm currntly learning data analysis </br>
 i have strong programming basics as i learned from head first java and java for dummies </br>
