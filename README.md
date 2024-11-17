@@ -1,4 +1,4 @@
-# 💫 HI I'M MRAWAn:
+# 💫 HI I'M MRAWAN:
 i have strong foundation in programming <br>i like to learn from books as it is cheaper and no crowd <br>i learned front end web in 2022 as a start of tech field <br>then i decided to be data analyst or business analyst<br>curnntly i'm learning data visulazation and Mysql also data cleaning <br>i want to learn cloud computing but i'm waiting to be more pro in data analysis
 
 
